@@ -3,7 +3,7 @@ Signature
 
 Email signature in HTML
 
-'''<div style="padding: 5px; margin: 5px; border: 1px solid darkgray; box-shadow: 0 0 10px lightgray;">
+<div style="padding: 5px; margin: 5px; border: 1px solid darkgray; box-shadow: 0 0 10px lightgray;">
     <div style="font-size: 13px; font-family: Verdana, Arial, Helvetica, sans-serif;">
         <div style="margin: 0 0 8px 0">
             <table style="font-family: sans-serif; font-size: 12px; width: 100%;" border="0">
